@@ -1,3 +1,2 @@
 # android_apps
-etc.
-Source code for my personal projects
+Source code for my personal projects and etc.
